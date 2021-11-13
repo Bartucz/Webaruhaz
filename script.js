@@ -10,17 +10,7 @@ class Termek{
        
       } 
  
-
-
-
-
-
 }
-
-
-
-
-
 
     const termekClassok=[];
     const kosar=[];
